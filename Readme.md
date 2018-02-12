@@ -1,6 +1,6 @@
 # RaspberryPi HTTP IR Controller
 
-[![video tutorial](https://youtu.be/l8nb9gdubtA/1.jpg)](https://youtu.be/l8nb9gdubtA)
+[![video tutorial](https://img.youtube.com/vi/l8nb9gdubtA/1.jpg)](https://youtu.be/l8nb9gdubtA)
 
 ## Build the circuit
 
